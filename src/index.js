@@ -1,4 +1,1 @@
-
-const  name  =    function(){
-    const a = 100;
-}
+import css from "./styles/mainStyle.css";
